@@ -14,7 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-
 ## Overview
 
 ### Screenshot
@@ -27,9 +26,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![desktop preview](https://github.com/rereloluwavictor2001/qr-code-component-main/blob/main/design/desktop-preview.jpg)
 
-- Active State
+- Desktop Design
 
-![active state](https://github.com/rereloluwavictor2001/qr-code-component-main/blob/main/design/active-states.jpg)
+![active state](https://github.com/rereloluwavictor2001/qr-code-component-main/blob/main/design/desktop-design.jpg)
 
 ### Links
 
